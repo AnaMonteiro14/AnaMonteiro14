@@ -32,7 +32,7 @@
 
 ###
 
-<h3 align="left">Programming Languages</h3>
+<h3 align="left">Tools and Frameworks</h3>
 
 ###
 
