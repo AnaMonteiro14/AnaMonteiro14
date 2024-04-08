@@ -44,9 +44,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
 </div>
 
-###
-
-<h3 align="left">Contact</h3>
 
 ###
 
