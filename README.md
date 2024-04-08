@@ -53,7 +53,7 @@
 <div align="left">
   
   <a href="anacamille.monteiro@gmail.com">
-  <img src="https://raw.githubusercontent.com/AnaMonteiro14/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="43" height="33" alt="gmail logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="43" height="33" alt="gmail logo"  />
   </a>
 
   <a href="www.linkedin.com/in/ana-monteiro-114014207">
