@@ -53,8 +53,8 @@
 <div align="left">
   
   <div align="left">
-  [![gmail logo](https://raw.githubusercontent.com/maurodesouza/profile-readme-enerator/master/src/assets/icons/social/gmail/default.svg)](mailto:seuemail@gmail.com)
-  [![linkedin logo](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://www.linkedin.com/seuperfil)
+  <img src="(https://raw.githubusercontent.com/maurodesouza/profile-readme-enerator/master/src/assets/icons/social/gmail/default.svg)](mailto:anacamille.monteiro@gmail.com)" />
+  <img src="(https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://www.linkedin.com/seuperfil)" />
 
 </div>
 
