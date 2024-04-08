@@ -50,13 +50,16 @@
 
 ###
 
-<div align="left">
-  
-  <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-enerator/master/src/assets/icons/social/gmail/default.svg (mailto:anacamille.monteiro@gmail.com)" />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg (https://www.linkedin.com/seuperfil)" />
+<h3 align="left">Contact</h3>
 
+###
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="43" height="33" alt="gmail logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="43" height="33" alt="linkedin logo"  />
 </div>
+
+
 
 <div align="center">
   <img height="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3Y2cHFuanEyNGUza3RlaWtqaHpraG1md3BiNG41dmR4N3MycnA3byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HBDT4QSTpveU/giphy.gif"  />
