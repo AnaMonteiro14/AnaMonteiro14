@@ -52,13 +52,10 @@
 
 <div align="left">
   
-  <a href="anacamille.monteiro@gmail.com">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="43" height="33" alt="gmail logo"  />
-  </a>
+  <div align="left">
+  [![gmail logo](https://raw.githubusercontent.com/maurodesouza/profile-readme-enerator/master/src/assets/icons/social/gmail/default.svg)](mailto:seuemail@gmail.com)
+  [![linkedin logo](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://www.linkedin.com/seuperfil)
 
-  <a href="www.linkedin.com/in/ana-monteiro-114014207">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="43" height="33" alt="linkedin logo"  />
-  </a>
 </div>
 
 <div align="center">
